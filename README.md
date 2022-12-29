@@ -1,6 +1,6 @@
-## visualization-challenge: Pymaceuticals
+# Visualization-challenge: Pymaceuticals
 
-# Observations and Insights
+## Observations and Insights
 
 * It can be observed from the regression plot between the weight of mouse and the tumour size of the mice treated with Capomulin drug that the tumour size has high corelation (0.84) with the weight of the mouse. This means that a mouse with a higher weight has a larger tumour.
 * The results of the boxplot comparing the effectiveness of four different drugs (Capomulin, Ramicane, Infubinol and Ceftamin) shows that the drug Ramicane is most effective among these four drug types since the quartiles values for final tumour size is least for this drug. The drug Capomulin is also in a similar range and the final tumour size values are just slightly bigger than that for Ramicane drug. However, the other two drugs appear to be less effective.
