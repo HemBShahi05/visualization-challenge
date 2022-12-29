@@ -1,1 +1,3 @@
-# visualization-challenge
+# visualization-challenge: Pymaceuticals
+
+Observations and Insights
